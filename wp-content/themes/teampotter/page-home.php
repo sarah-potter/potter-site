@@ -35,21 +35,31 @@ get_header(); ?>
 				<section id="services">
 					<h3>What We do</h3>
 						<ul>
-							<li>
+							<li class="service">
 								<lh>Branding + Design</lh>
-								<p>We help you create an engaging and memorable brand identity that's built to last.</p>
+								<p>We're the complete package! We can help you create an engaging and memorable brand identity that's built to last.</p>
 							</li>
 							
-							<li>Web Design + Development</li>
-								<p>We've worked on websites that scale from the backyard hobbyist to enterprise level. Design and code standards are of critical importance when creating.  Which is also why we create with the best and most widely supported Content Management Systems available.</p>
-								
-							<li>Mobile</li>
-							<p>because your customers attention is there. responsiveness.</p>
+							<li class="service">
+								<lh>Web Design + Development</lh>
+								<p>We've worked on websites that scale from enterprise level to the backyard hobbyist. Design and code standards are of critical importance when creating.  Content is king so We create with the best and most widely supported Content Management Systems available.</p>
+							</li>
 							
-							<li>
+								
+							<li class="service">
+							<lh>Mobile</lh>
+							<p>Because your customers attention is there so is ours. We tailor all of our projects to have a level of scalability. All of our websites are responsive, but we also have expertise in UX and iOS development.</p>
+							</li>
+							
+							<li class="service">
 								<lh>Analytics + Web Services</lh>
 								<p>It takes a village! There's tons of supplemental services that promise to make your web site better, faster + more optimized.  We can help you find and set up just which services really can make your business go the extra mile</p>				 
 							</li>
+							
+							<li class="service">
+								<lh>Lcoation</lh>
+								<p>The beauty of the internet is that we can work from anywhere.  Though we're usally working from California... though sometimes it's Seattle, Washington too.</p>
+							
 						</ul>
 						
 						<p>Peaked your interest? Click through to see more details on working with us!</p>
